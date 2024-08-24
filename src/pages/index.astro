@@ -1,0 +1,30 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="pt-br">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Bem-vindo ao DicaDev!</h1>
+			<p>
+				Ei, devs! Sejam bem-vindos ao lugar onde o código ganha vida e a criatividade não tem limites! 🚀 Aqui no DicaDev, estamos prontos para transformar suas linhas de código em verdadeiras obras de arte. Seja você um novato curioso ou um veterano das teclas, nosso blog é o seu novo ponto de encontro para tudo que envolve desenvolvimento de software.
+			</p>
+
+			<p>
+				Prepare-se para mergulhar em um universo de dicas quentes, truques ninja e insights que vão turbinar suas habilidades. Desde os segredos das linguagens de programação mais badaladas até as melhores práticas para arrasar nos projetos, temos tudo o que você precisa para se destacar no mundo tech.
+			</p>
+			<p>
+				Então, ajuste sua cadeira e venha com a gente nessa jornada de aprendizado e diversão. Porque aqui no DicaDev, o conhecimento é compartilhado e a diversão é garantida! 😎💻
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
