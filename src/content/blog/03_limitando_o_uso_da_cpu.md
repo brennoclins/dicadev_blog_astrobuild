@@ -1,7 +1,7 @@
 ---
 title: 'Limitando o uso da CPU'
 description: 'Limitando o uso da CPU no Linux'
-pubDate: 'May 13 2024'
+pubDate: 'May 14 2024'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 

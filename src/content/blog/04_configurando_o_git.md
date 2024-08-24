@@ -1,7 +1,7 @@
 ---
 title: 'Configuração Inicial do Git'
 description: 'Configuração Inicial do Git.'
-pubDate: 'May 14 2024'
+pubDate: 'May 15 2024'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 
