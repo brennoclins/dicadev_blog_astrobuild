@@ -2,7 +2,7 @@
 title: 'Unindo vários arquivos de vídeos usando o CAT do linux'
 description: 'Unindo vários arquivos de vídeos em um único, via linha de comando do linux'
 pubDate: 'May 12 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/dicadev.png'
 ---
 
 
